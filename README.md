@@ -26,8 +26,8 @@
 
 "Amigo Secreto" es un aplicación que permite ingresar los nombres de tus amigos, donde luego se sortearán todos los nombre que se hayan ingresado y uno será elegido al azar, siendo este el amigo secreto.
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
-</p>
+![Interfaz de como se ven los nombres](https://github.com/user-attachments/assets/25e13945-faff-4b91-8696-77824e24fdae)
+
 
 ## Funcionalidades
 
