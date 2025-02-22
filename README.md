@@ -58,4 +58,4 @@
 
 ## Acceso al Proyecto
 
-Usted puede [acceder al código fuente de la aplicación](https://github.com/Rysioner/amigo-secreto.git).
+Usted puede [acceder al código fuente de la aplicación](https://github.com/Rysioner/amigo-secreto.git) o [acceder a la página](https://rysioner.github.io/amigo-secreto/).
